@@ -3,7 +3,8 @@ import matplotlib.pyplot as plt
 import streamlit as st
 
 
-day_df = pd.read_csv('https://github.com/fajrulfa/submission/blob/2ce34435be6131d8c975e8ce29c16ef1c75242c3/dasboard/all_data.csv')
+day_df = pd.read_csv('https://github.com/fajrulfa/submission/raw/2ce34435be6131d8c975e8ce29c16ef1c75242c3/dasboard/all_data.csv')
+
 
 day_df['dteday'] = pd.to_datetime(day_df['dteday'])
 def plot_monthly_usage(data):
