@@ -31,4 +31,4 @@ streamlit run dashboard.py
 
 ## Kontak
 
-Untuk pertanyaan atau masukan, silakan hubungi [Fajrul Falah Ahmad] di [123.falah.ahmad@gmail.com].
+Untuk pertanyaan atau masukan, silakan hubungi [Fajrul Falah Ahmad] di [123.falah.fajrulahmad@gmail.com].
